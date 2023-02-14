@@ -1,0 +1,12 @@
+[
+    {
+        "destId": 12,
+        "dest": "Guadalupe",
+        "origId": 24,
+        "orig": "Atenas",
+        "driverId": 354,
+        "driver": "Manuel Elizondo",
+        "seats": 3,
+        "depart": "1672345262"
+    }
+]

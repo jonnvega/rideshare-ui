@@ -1,8 +1,9 @@
 <template>
   <div>
+    <SearchBox/>
     <ul>
       <li v-for="ride in rides" :key="ride.name">
-        <Ride :name="ride.driver" />
+        <Ride :ride="ride" />
       </li>
     </ul>
   </div>
